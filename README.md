@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @9-Siti
-- 👀 I’m interested in web or android development, especially the frontend part, but I am open for any position, as long as it's still relevant to to programming
+- 👀 I’m interested in web development, especially the frontend part, but I am open for any position, as long as it's still relevant to to programming
 - 🌱 I’m currently learning react, and still deepen my knowledge of HTML, CSS, and JavaScript
 
 - 📫 How to reach me -> email : ssyafitri055@gmail.com
